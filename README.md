@@ -1,6 +1,9 @@
 # Loans Challenge - Backend
 
 Desafio backend desenvolvido em **Spring Boot** para gerenciar empréstimos baseado em regras de negócio pre definidas.
+([Back-End Brasil](https://github.com/backend-br) - 
+[Desafio](https://github.com/backend-br/desafios/blob/master/loans/PROBLEM.md) )
+
 
 ## Descrição do Projeto
 
