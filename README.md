@@ -121,16 +121,6 @@ LoanRule[] (validações)
     ↓
 AvailableLoansDTO (resposta)
 ```
-
-## Classe User
-
-A entidade `User` contém os dados básicos do cliente:
-
-- `name` - Nome completo
-- `cpf` - Documento (CPF)
-- `salary` - Salário mensal
-- `age` - Idade
-
 ## Classes Principais
 
 ### LoanService
